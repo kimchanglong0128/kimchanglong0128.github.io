@@ -25,7 +25,7 @@ I pursue research at the intersection of generative modeling and multimodal lear
 <div class="about-pubs">
   
 <div style="display: flex; gap: 16px; align-items: center; margin-bottom: 32px;">
-  <img src="/images/humor_teaser.png" alt="Onworking"
+  <img src="/images/proposal_1.png" alt="Onworking"
        style="width: 300px; object-fit: cover; border-radius: 5px;">
   <div style="font-size: 16px;">
     <div style="background-color: #FFB7C5; color: white; font-size: 12px; font-weight: bold; 
@@ -38,7 +38,7 @@ I pursue research at the intersection of generative modeling and multimodal lear
 </div>
   
 <div style="display: flex; gap: 16px; align-items: center; margin-bottom: 32px;">
-  <img src="/images/llm_safety_teaser.png" alt="Subtle Risks teaser"
+  <img src="/images/proposal_2.png" alt="Subtle Risks teaser"
        style="width: 300px; object-fit: cover; border-radius: 5px;">
   <div style="font-size: 16px;">
     <div style="background-color: #FFB7C5; color: white; font-size: 12px; font-weight: bold; 
