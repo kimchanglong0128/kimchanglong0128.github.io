@@ -32,7 +32,7 @@ I pursue research at the intersection of generative modeling and multimodal lear
                 padding: 2px 6px; border-radius: 4px; display: inline-block; margin-bottom: 4px;">
     </div><br>
     <span class="papertitle" style="font-size: 16px;"><strong>Dynamic Control of Drift-Prone Directions in Personalized Diffusion Models</strong></span><br>
-    <strong>Changlong Jin*</strong> ... <br> 
+    <strong>Changlong Jin*</strong><br> 
     <strong>Coming Soon</strong>
   </div>
 </div>
@@ -45,7 +45,7 @@ I pursue research at the intersection of generative modeling and multimodal lear
                 padding: 2px 6px; border-radius: 4px; display: inline-block; margin-bottom: 4px;">
     </div><br>
     <span class="papertitle" style="font-size: 16px;"><strong>Closed-Loop Multimodal Alignment for Text–Image Generative Models</strong></span><br>
-    <strong>Changlong Jin*</strong>, ... <br>
+    <strong>Changlong Jin*</strong><br>
     <strong>Coming Soon</strong>
     <!-- <strong>Published in EMNLP 2025</strong><br> -->
     <!-- <a href="https://aclanthology.org/2025.emnlp-main.1305/">[Paper]</a> -->
