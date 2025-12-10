@@ -51,6 +51,3 @@ I pursue research at the intersection of generative modeling and multimodal lear
     <!-- <a href="https://aclanthology.org/2025.emnlp-main.1305/">[Paper]</a> -->
   </div>
 </div>
-
-  </div>
-</div>
