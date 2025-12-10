@@ -13,11 +13,11 @@ Hi! I'm Changlong Jin, a Integrated M.S.–Ph.D. Student in Artificial Intellige
 ## Research Interests
 
 I pursue research at the intersection of generative modeling and multimodal learning, with a focus on:
-- Diffusion dynamics and stability
-- Multimodal alignment and semantic feedback
-- Parameter-efficient adaptation (PEFT, AST)
-- Inductive biases in generative models
-- Identity- and semantics-preserving personalization
+- Diffusion Dynamics & Stability
+- Multimodal Alignment
+- Parameter-Efficient Adaptation (PEFT, AST)
+- Inductive Biases In Generative Models
+- Identity Consistency
 
 
 ## Working Papers
