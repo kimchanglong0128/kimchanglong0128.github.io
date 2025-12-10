@@ -43,7 +43,6 @@ I pursue research at the intersection of generative modeling and multimodal lear
   <div style="font-size: 16px;">
     <div style="background-color: #FFB7C5; color: white; font-size: 12px; font-weight: bold; 
                 padding: 2px 6px; border-radius: 4px; display: inline-block; margin-bottom: 4px;">
-      EMNLP 2025 Main
     </div><br>
     <span class="papertitle" style="font-size: 16px;"><strong>Closed-Loop Multimodal Alignment for Text–Image Generative Models</strong></span><br>
     <strong>Changlong Jin*</strong>, ... <br>
