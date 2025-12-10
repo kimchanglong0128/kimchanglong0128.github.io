@@ -23,36 +23,55 @@ I pursue research at the intersection of generative modeling and multimodal lear
 ## Working Papers
 
 <div class="about-pubs">
-  
-  <div style="display: flex; gap: 16px; align-items: center; margin-bottom: 32px;">
+
+  <!-- Paper 1 -->
+  <div style="display: flex; gap: 20px; align-items: flex-start; margin-bottom: 36px;">
     <img src="/images/proposal_1.png" alt="Ongoing project 1"
-         style="width: 300px; object-fit: cover; border-radius: 5px;">
-    <div style="font-size: 16px;">
-      <div style="background-color: #1E90FF; color: white; font-size: 12px; font-weight: bold; 
-                  padding: 2px 6px; border-radius: 4px; display: inline-block; margin-bottom: 4px;">
+         style="width: 260px; height: auto; border-radius: 6px; object-fit: cover;">
+    <div style="flex: 1;">
+      <!-- Status Tag -->
+      <div style="background-color: #1E90FF; color: white; 
+                  font-size: 11px; font-weight: 600;
+                  padding: 3px 8px; border-radius: 4px;
+                  display: inline-block; margin-bottom: 8px;">
         Ongoing
-      </div><br>
-      <span class="papertitle" style="font-size: 16px;"><strong>Dynamic Control of Drift-Prone Directions in Personalized Diffusion Models</strong></span><br>
-      <strong>Changlong Jin*</strong><br> 
-      <strong>Coming soon</strong>
+      </div>
+      <!-- Title -->
+      <div style="font-size: 18px; font-weight: 700; margin-bottom: 4px;">
+        Dynamic Control of Drift-Prone Directions in Personalized Diffusion Models
+      </div>
+      <!-- Author -->
+      <div style="font-size: 14px; opacity: 0.85; margin-bottom: 6px;">
+        <strong>Changlong Jin*</strong>
+      </div>
+      <!-- Status Text -->
+      <div style="font-size: 14px; opacity: 0.75;">
+        <em>Manuscript in preparation</em>
+      </div>
     </div>
   </div>
-  
-  <div style="display: flex; gap: 16px; align-items: center; margin-bottom: 32px;">
+
+  <!-- Paper 2 -->
+  <div style="display: flex; gap: 20px; align-items: flex-start; margin-bottom: 36px;">
     <img src="/images/proposal_2.png" alt="Ongoing project 2"
-         style="width: 300px; object-fit: cover; border-radius: 5px;">
-    <div style="font-size: 16px;">
-      <div style="background-color: #1E90FF; color: white; font-size: 12px; font-weight: bold; 
-                  padding: 2px 6px; border-radius: 4px; display: inline-block; margin-bottom: 4px;">
+         style="width: 260px; height: auto; border-radius: 6px; object-fit: cover;">
+    <div style="flex: 1;">
+      <div style="background-color: #1E90FF; color: white; 
+                  font-size: 11px; font-weight: 600;
+                  padding: 3px 8px; border-radius: 4px;
+                  display: inline-block; margin-bottom: 8px;">
         Ongoing
-      </div><br>
-      <span class="papertitle" style="font-size: 16px;"><strong>Closed-Loop Multimodal Alignment for Text–Image Generative Models</strong></span><br>
-      <strong>Changlong Jin*</strong><br>
-      <strong>Coming soon</strong>
-      <!-- <strong>Published in EMNLP 2025</strong><br> -->
-      <!-- <a href="https://aclanthology.org/2025.emnlp-main.1305/">[Paper]</a> -->
+      </div>
+      <div style="font-size: 18px; font-weight: 700; margin-bottom: 4px;">
+        Closed-Loop Multimodal Alignment for Text–Image Generative Models
+      </div>
+      <div style="font-size: 14px; opacity: 0.85; margin-bottom: 6px;">
+        <strong>Changlong Jin*</strong>
+      </div>
+      <div style="font-size: 14px; opacity: 0.75;">
+        <em>Manuscript in preparation</em>
+      </div>
     </div>
   </div>
 
 </div>
-
